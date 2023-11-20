@@ -1,0 +1,160 @@
+
+196_gold_card.png
+size: 1267,1266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Egg_light_DA/Egg_light_DA_1
+  rotate: false
+  xy: 641, 224
+  size: 44, 102
+  orig: 44, 102
+  offset: 0, 0
+  index: -1
+Egg_light_DA/Egg_light_DA_2
+  rotate: true
+  xy: 333, 20
+  size: 63, 195
+  orig: 63, 195
+  offset: 0, 0
+  index: -1
+Egg_light_DA/Egg_light_DA_3
+  rotate: true
+  xy: 641, 18
+  size: 97, 240
+  orig: 97, 240
+  offset: 0, 0
+  index: -1
+Egg_light_DA/Egg_light_DA_4
+  rotate: false
+  xy: 1122, 305
+  size: 135, 308
+  orig: 135, 308
+  offset: 0, 0
+  index: -1
+Egg_light_DA/Egg_light_DA_5
+  rotate: true
+  xy: 750, 469
+  size: 144, 371
+  orig: 144, 371
+  offset: 0, 0
+  index: -1
+Glow_2
+  rotate: false
+  xy: 750, 785
+  size: 480, 480
+  orig: 480, 480
+  offset: 0, 0
+  index: -1
+Ray_2x
+  rotate: true
+  xy: 750, 614
+  size: 170, 447
+  orig: 170, 447
+  offset: 0, 0
+  index: -1
+card1
+  rotate: true
+  xy: 1, 8
+  size: 214, 272
+  orig: 214, 272
+  offset: 0, 0
+  index: -1
+egg01
+  rotate: true
+  xy: 352, 84
+  size: 242, 288
+  orig: 242, 288
+  offset: 0, 0
+  index: -1
+egg02
+  rotate: false
+  xy: 1024, 16
+  size: 242, 288
+  orig: 242, 288
+  offset: 0, 0
+  index: -1
+egg03
+  rotate: true
+  xy: 1, 223
+  size: 293, 350
+  orig: 293, 350
+  offset: 0, 0
+  index: -1
+gold_card
+  rotate: true
+  xy: 352, 327
+  size: 189, 336
+  orig: 189, 336
+  offset: 0, 0
+  index: -1
+hammer01
+  rotate: false
+  xy: 1231, 1159
+  size: 25, 106
+  orig: 25, 106
+  offset: 0, 0
+  index: -1
+hammer02
+  rotate: false
+  xy: 1198, 642
+  size: 66, 142
+  orig: 66, 142
+  offset: 0, 0
+  index: -1
+hammer03
+  rotate: true
+  xy: 641, 116
+  size: 75, 244
+  orig: 75, 244
+  offset: 0, 0
+  index: -1
+hammer04
+  rotate: false
+  xy: 886, 51
+  size: 134, 140
+  orig: 134, 140
+  offset: 0, 0
+  index: -1
+hammer05
+  rotate: false
+  xy: 1024, 326
+  size: 60, 142
+  orig: 60, 142
+  offset: 0, 0
+  index: -1
+hammer06
+  rotate: false
+  xy: 1231, 1052
+  size: 26, 106
+  orig: 26, 106
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 689, 192
+  size: 276, 334
+  orig: 276, 334
+  offset: 0, 0
+  index: -1
+light_bg
+  rotate: false
+  xy: 1, 517
+  size: 748, 748
+  orig: 748, 748
+  offset: 0, 0
+  index: -1
+particle1
+  rotate: true
+  xy: 529, 5
+  size: 78, 99
+  orig: 78, 99
+  offset: 0, 0
+  index: -1
+shine
+  rotate: false
+  xy: 274, 26
+  size: 58, 196
+  orig: 58, 196
+  offset: 0, 0
+  index: -1
